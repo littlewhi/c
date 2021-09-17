@@ -1,4 +1,0 @@
-﻿  test.c
-e:\练习_9_8\练习_9_8\test.c(156): warning C4047: “!=”:“int”与“void *”的间接级别不同
-e:\练习_9_8\练习_9_8\test.c(157): warning C4047: “!=”:“int”与“void *”的间接级别不同
-  练习_9_8.vcxproj -> E:\练习_9_8\Debug\练习_9_8.exe
