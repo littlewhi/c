@@ -1,0 +1,3 @@
+﻿  test.c
+e:\my_practice\练习_9_22\练习_9_22\test.c(23): warning C4715: “my_pow”: 不是所有的控件路径都返回值
+  练习_9_22.vcxproj -> E:\my_practice\练习_9_22\Debug\练习_9_22.exe
