@@ -1,0 +1,3 @@
+﻿  test.c
+e:\my_practice\练习_10_8\练习_10_8\test.c(6): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  练习_10_8.vcxproj -> E:\my_practice\练习_10_8\Debug\练习_10_8.exe
