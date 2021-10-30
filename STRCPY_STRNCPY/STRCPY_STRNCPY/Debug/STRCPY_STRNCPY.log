@@ -1,0 +1,3 @@
+﻿  test.c
+e:\my_practice\strcpy_strncpy\strcpy_strncpy\test.c(63): warning C4018: “<”: 有符号/无符号不匹配
+  STRCPY_STRNCPY.vcxproj -> E:\my_practice\STRCPY_STRNCPY\Debug\STRCPY_STRNCPY.exe
