@@ -1,0 +1,4 @@
+﻿  test.c
+e:\数据结构\大话数据结构\kmp算法\kmp算法\test.c(13): warning C4018: “<”: 有符号/无符号不匹配
+e:\数据结构\大话数据结构\kmp算法\kmp算法\test.c(39): warning C4018: “<”: 有符号/无符号不匹配
+  kmp算法.vcxproj -> E:\数据结构\大话数据结构\kmp算法\Debug\kmp算法.exe

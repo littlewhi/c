@@ -1,2 +1,4 @@
-﻿  stackandqueue.c
+﻿  Queuestack.c
+e:\数据结构\大话数据结构\栈与队列\栈与队列\queuestack.c(94): warning C4133: “=”: 从“QueuePtr”到“Node *”的类型不兼容
+e:\数据结构\大话数据结构\栈与队列\栈与队列\queuestack.c(103): warning C4133: “初始化”: 从“Node *”到“QueuePtr”的类型不兼容
   栈与队列.vcxproj -> E:\数据结构\大话数据结构\栈与队列\Debug\栈与队列.exe

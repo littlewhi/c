@@ -21,5 +21,11 @@
     <ClCompile Include="dynamicLink.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="staticLink.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cir_dou_linklist.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
